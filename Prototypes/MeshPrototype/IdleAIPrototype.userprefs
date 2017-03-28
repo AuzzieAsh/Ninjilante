@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Move.cs">
+    <Files>
+      <File FileName="Assets\EnemyScript.cs" Line="8" Column="44" />
+      <File FileName="Assets\IdleAI.cs" Line="24" Column="49" />
+      <File FileName="Assets\InvestigateAI.cs" Line="50" Column="5" />
+      <File FileName="Assets\EnemyVision.cs" Line="26" Column="39" />
+      <File FileName="Assets\Move.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
